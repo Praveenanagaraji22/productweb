@@ -728,7 +728,7 @@ styles.css
 ![Output](./out14.png)
 
 ## HTML Validator
-![Output](./valid.png)
+![Output](./valid1.png)
 
 ## Result:
 The program for designing company website for sale of products using HTML and CSS is completed successfully.
